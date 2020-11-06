@@ -366,19 +366,19 @@ img.resize {
 /* code for blog tiles: */
 .wrap
 {
-  margin:20px auto 0 auto;
+  margin:10px auto 0 auto;
   width:100%;
   display:flex;
   flex-wrap: wrap;
   justify-content: center;
-  max-width:1000px;
+  max-width:1200px;
 
 }
 .tile
 {
-  width:400px;
+  width:350px;
   height:350px;
-  margin:20px;
+  margin:10px;
   background: linear-gradient(to left,var(--light), var(--mid));
   display:inline-block;
   background-size:cover;
