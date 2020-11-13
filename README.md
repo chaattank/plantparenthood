@@ -1,4 +1,3 @@
-# Plant Parenthood
-Website for fake Shark-Tank event
+# Plant Parenthood 
 
-[Website](http://chaattank.github.io/plantparenthood)
+[Website](http://chaattank.github.io/plantparenthood) for fake Shark-Tank event
